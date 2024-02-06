@@ -1,0 +1,9 @@
+﻿  func.cpp
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\Model.h(27,1): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\func.cpp(74,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\func.cpp(518,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\func.cpp(519,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\func.cpp(527,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\Texture and Lighting Example\func.cpp(528,24): warning C4305: '=': truncation from 'double' to 'float'
+glew32sd.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32sd.lib(glew.obj)' or at 'C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\x64\Debug\glew_static.pdb'; linking object as if no debug info
+  Texture and Lighting Example.vcxproj -> C:\Users\Эльдорадо.LAPTOP-UTBG1351\Downloads\Texture and Lighting Example1\Texture and Lighting Example1\x64\Debug\Texture and Lighting Example.exe
